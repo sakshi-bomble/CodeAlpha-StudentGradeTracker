@@ -1,2 +1,2 @@
 # CodeAlpha-StudentGradeTracker
-Java GUI Student Grade Tracker Project
+Java 8 Swing GUI application to manage student grades and calculate average, highest, and lowest scores
